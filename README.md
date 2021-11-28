@@ -1,5 +1,10 @@
-# inno_Bank
 Innovance project
+
+I used Java 8, Spring boot, MySQL and hibernate.
+
+Before you run this Spring boot project on an IDE, please open MySQL Workbench, create a new or existing connection and run the userScript.sql file and databaseScript.sql file from this link: https://github.com/yozmosis/innovanceSQL_file.git
+
+Once the database and its two tables are setup, you can run the Spring boot project.
 
 This project includes 7 end points for various request types. GET requests are unsecured but the remaining request types have basic authentication enabled, requiring the user name of "innovance" and password of "innovance".
 
