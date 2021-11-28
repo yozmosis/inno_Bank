@@ -3,7 +3,7 @@ Innovance project
 
 This project includes 7 end points for various request types. GET requests are unsecured but the remaining request types have basic authentication enabled, requiring the user name of "innovance" and password of "innovance".
 
-Below I've listed the end points, their descriptions, and an example for each. You could also view the Swagger UI for documentation at http://localhost:8080/swagger-ui/#/ once you ru nthe spring boot project.
+Below I've listed the end points, their descriptions, and an example for each. You could also view the Swagger UI for documentation at http://localhost:8080/swagger-ui/#/ once you run the spring boot project.
 
 GET Requests:
 
